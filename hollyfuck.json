@@ -45,11 +45,14 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 0",
-      "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "imageURL" : "https://raw.githubusercontent.com/cryptoknot/GOOse/main/goose.jpeg",
+      "state" : "Fact 1",
+      "title" : "Untitled Goose Game walkthrough: Complete puzzle guide with solutions for every To Do list",
+      "description" : "If you're stuck on any of the Untitled Goose Game puzzles, then we've got the solutions in our complete walkthrough guide 
+      It's been the star of a thousand memes, and having an Untitled Goose Game walkthrough handy will allow you to ensure you've seen every moment of comedy gold. Naturally, there are some challenges on your To Do list that you can easily honk your way through, however there are other puzzles that require a lot more experimenting and lateral thinking to get done. Although you can just flap around causing chaos, there's an underlying structure to progression where you need to clear all but one of the tasks on the To Do list for each area, which then reveals a final task (marked with a * on our lists below) – beat this last assignment to open the path to the next area and continue your adventure.
+
+Please note that this guide is not intended to be a prescriptive walkthrough of how to solve each task perfectly, as there are often multiple ways to complete a challenge, but rather to offer up a method that works if you find yourself stuck. The opening section is a basic tutorial to introduce you to the controls, so shouldn't cause too much hassle. When you reach the gate, pull out the top and bottom bolts on the right to get through to the first level, where our Untitled Goose Game walkthrough begins.",
+      "written" : "Fact 1"
     },
     {
       "id" : 1,
